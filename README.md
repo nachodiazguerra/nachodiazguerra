@@ -6,14 +6,14 @@ Passionate **Data Analyst** with a love for **Python** 🐍, **Business Intellig
 
 ### 🛠️ **Skills**:
 - **Languages**: Python, SQL, MQL5, JavaScript
-- **Tools**: Power BI, Microsoft Excel, HTML/CSS, Flask, Pandas
+- **Tools**: Power BI, Tableau, Microsoft Excel, HTML/CSS, Flask, Pandas, Scikit-learn
 - **Media**: Adobe Premiere, DaVinci Resolve
 
 ---
 
 ### 🧠 **What I'm working on**:
 - 📝 Developing a machine learning model using the **COT report** and visualizing it with **Power BI**.
-- 🍃 Building **Fresco App**: A tool for organizing user data, including geographic coordinates and entries from various sources.
+- 🍃 Building **Fresco App**: A web app for organizing user data, including geographic coordinates and entries from various sources.
 - 🤖 Creating algorithmic trading bots with **MQL5**.
 - 📊 Building interactive dashboards for data-driven decision-making.
 
